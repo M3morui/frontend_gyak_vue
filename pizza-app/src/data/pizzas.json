@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "details": "Paradicsomos alap, mozzarella, bazsalikom",
+    "image": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "details": "Paradicsomos alap, mozzarella, pepperoni",
+    "image": "https://www.perfectitaliano.com.au/content/dam/perfectitaliano-aus/recipe/pepperoni_pizza_standard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Négysajtos Pizza",
+    "details": "Mozzarella, gorgonzola, parmezán és ementáli sajttal",
+    "image": "https://www.szeretlekmagyarorszag.hu/wp-content/uploads/2023/10/foto_vassadrienn-171-resized-970.jpg"
+  }
+]
