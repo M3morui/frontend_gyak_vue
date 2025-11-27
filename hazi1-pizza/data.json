@@ -1,0 +1,88 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita Classico",
+      "type": "Vegetarian",
+      "price": 2990,
+      "rate": 4.7,
+      "toppings": [
+        "paradicsomszósz",
+        "mozzarella",
+        "bazsalikom"
+      ],
+      "image": "https://eu.ooni.com/cdn/shop/articles/20220211142754-margherita-9920_0483214a-7057-4277-9a3b-f2ab17c01e13.jpg?v=1737105958&width=1080"
+    },
+    {
+      "id": 2,
+      "name": "Diavola",
+      "type": "Spicy",
+      "price": 3490,
+      "rate": 4.8,
+      "toppings": [
+        "paradicsomszósz",
+        "mozzarella",
+        "csípős szalámi",
+        "chili pehely"
+      ],
+      "image": "https://www.carolynscooking.com/wp-content/uploads/2024/02/Pizza-Diavola-7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Quattro Formaggi",
+      "type": "Cheese",
+      "price": 3690,
+      "rate": 4.9,
+      "toppings": [
+        "mozzarella",
+        "gorgonzola",
+        "parmezán",
+        "pecorino"
+      ],
+      "image": "https://coleycooks.com/wp-content/uploads/2024/01/quattro-formaggi-pizza-12.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Prosciutto e Funghi",
+      "type": "Classic",
+      "price": 3590,
+      "rate": 4.6,
+      "toppings": [
+        "paradicsomszósz",
+        "mozzarella",
+        "főtt sonka",
+        "gomba"
+      ],
+      "image": "https://amici.ph/cdn/shop/files/PROSCIUTTOEFUNGHI_8b606a84-2f1a-4f56-b5b2-745f7a1ea01a_1200x.jpg?v=1747263910"
+    },
+    {
+      "id": 5,
+      "name": "Hawaii",
+      "type": "Sweet-Savory",
+      "price": 3290,
+      "rate": 4.4,
+      "toppings": [
+        "paradicsomszósz",
+        "mozzarella",
+        "sonka",
+        "ananász"
+      ],
+      "image": "https://www.onelovelylife.com/wp-content/uploads/2024/08/Hawaiian-Pizza20-3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BBQ Chicken",
+      "type": "Special",
+      "price": 3890,
+      "rate": 4.7,
+      "toppings": [
+        "BBQ szósz",
+        "mozzarella",
+        "grillezett csirke",
+        "vöröshagyma",
+        "kukorica"
+      ],
+      "image": "https://diethood.com/wp-content/uploads/2014/06/bbq-chicken-pizza-3.jpg"
+    }
+  ]
+}
