@@ -1,0 +1,58 @@
+{
+  "filmek": [
+    {
+      "id": 1,
+      "name": "Eredet (Inception)",
+      "type": "Sci-Fi",
+      "length": "148p",
+      "rate": 4.8,
+      "description": "Egy csapat tudatbetörő bértolvaj belép mások álmaiba, hogy titkokat lopjon vagy ültessen el.",
+      "image": "https://journality.hu/wp-content/uploads/2010/10/eredet.jpg"
+    },
+    {
+      "id": 2,
+      "name": "A sötét lovag (The Dark Knight)",
+      "type": "Akció",
+      "length": "152p",
+      "rate": 4.9,
+      "description": "Batman szembenéz Jokerral, aki anarchiába taszítja Gothamet, hogy megtörje a hős morális határait.",
+      "image": "https://www.mafab.hu/static/profiles/2014/292/23/2384_4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "A Gyűrűk Ura: A király visszatér",
+      "type": "Fantasy",
+      "length": "201p",
+      "rate": 5.0,
+      "description": "Frodó és Sam utolsó erejüket összeszedve közelednek Mordor felé, miközben a jó erők döntő csatát vívnak.",
+      "image": "https://m.blog.hu/fi/filmbook/image/2181701_cd3d23a467f16ef103b7b04c4e5c22c2_xl.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ponyvaregény (Pulp Fiction)",
+      "type": "Krimi",
+      "length": "154p",
+      "rate": 4.7,
+      "description": "Több szálon futó, fekete humorral átszőtt történet gengszterekről, bokszolókról és bérgyilkosokról.",
+      "image": "https://img.topfilmek.hu/w300/i8N31RHT6WaBXSicxABMRyBH4yQ.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Interstellar",
+      "type": "Sci-Fi",
+      "length": "169p",
+      "rate": 4.8,
+      "description": "Egy űrhajós csapat új otthont keres az emberiség számára egy féreglyukon át vezető úton.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "A bosszúállók: Végtelen háború",
+      "type": "Szuperhős",
+      "length": "149p",
+      "rate": 4.6,
+      "description": "A Bosszúállók és szövetségeseik életük legnagyobb ellenségével, Thanosszal küzdenek.",
+      "image": "https://upload.wikimedia.org/wikipedia/hu/2/28/Bossz%C3%BA%C3%A1ll%C3%B3k-V%C3%A9gtelen_h%C3%A1bor%C3%BA.jpg"
+    }
+  ]
+}
