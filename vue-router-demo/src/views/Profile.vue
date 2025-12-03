@@ -1,0 +1,1 @@
+<h1>Profil: {{ $route.params.id }}</h1>
